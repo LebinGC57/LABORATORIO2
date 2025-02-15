@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 22:14...
+1>------ Operación Compilar iniciada: Proyecto: PROG.P123, configuración: Debug Any CPU ------
+1>  PROG.P123 -> C:\PEOGRAMACION 1\PROG.P123\PROG.P123\bin\Debug\PROG.P123.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 22:14 y tardó 00.299 segundos ==========
